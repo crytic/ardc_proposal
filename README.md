@@ -1,0 +1,2 @@
+- Proposal: https://forum.arbitrum.foundation/t/arbitrum-research-development-collective-elections-applications/20805/7
+- Contact: @montyly on [twitter](https://twitter.com/Montyly)/telegram
